@@ -78,6 +78,5 @@ Project Goal:
 
 This project intends to eradicate domestic violence and foster safe homes for individuals in families globally by promoting non-violence, creating awareness, and providing resources and support to individuals and communities. It aims to empower people with information, support, and practical tools to mitigate domestic violence and its consequences.
 
-![image](https://github.com/NGJIERU/MAD/assets/132632965/b49760ea-30d3-4690-a7fd-1ee643a96f8a)
+![project backlog report](https://github.com/NGJIERU/EmpowerSafe/assets/132632965/d30dcf0d-3f10-45b4-85c7-1d36cc64cbe2)
 
-![image](https://github.com/NGJIERU/EmpowerSafe/assets/132632965/6fd397ec-ddc8-4adf-bea5-29cf40fbebb2)
